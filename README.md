@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hello, I'm Shreyasi Tyagi<br><br> CSIT Undergraduate at KIET Group of Institutions<br> Passionate about building impactful software solutions and transforming data into insights<br><br>🔹 Tech Stack:<br>Java • Python • C++ • JavaScript • React • SQL<br><br>🔹 Interests:<br>Web Development • Data Analytics • Cloud Computing • Machine Learning<br><br>🔹 Currently Learning:<br>Advanced DSA, React , AWS Cloud Services<br><br>IBM Data Analyst Virtual Intern-2025,2026<br>100+ LeetCode Problems Solved<br><br>I enjoy creating projects that solve real-world problems while continuously improving my technical and problem-solving skills.
 
 
